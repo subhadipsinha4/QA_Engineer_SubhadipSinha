@@ -1,0 +1,10 @@
+com\qa\pages\LoginPage.class
+com\qa\base\BaseClass.class
+com\qa\pages\HomePage.class
+com\qa\pages\TwoFactorAuthPage.class
+com\qa\utils\ExtentReportManager.class
+com\qa\pages\LogoutPage.class
+com\qa\pages\AccountConfirmationPage.class
+com\qa\pages\RegistrationPage.class
+com\qa\pages\PlayAbleAdScreen.class
+com\qa\utils\CommonActions.class

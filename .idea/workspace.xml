@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76b45221-a43b-4d88-ae92-53246adf04d3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pwLRNMfOjkd3CJ53NadVup9PRU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.HomePage.executor": "Run",
+    "TestNG.HomeTestCases.verifyHomeScreen.executor": "Run",
+    "TestNG.PlayableAdTestCases.executor": "Run",
+    "TestNG.PlayableAdTestCases.testStartCollectGoldButton.executor": "Run",
+    "TestNG.PlayableAdTestCases.testUserRegistration.executor": "Run",
+    "TestNG.PlayableAdTestCases.testUserShouldAbleToClickAnyLanguage.executor": "Run",
+    "TestNG.PlayableAdTestCases.verifyLoginAndLogoutFlowWithExistingUser.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/subha/IdeaProjects/QA_Engineer_SubhadipSinha",
+    "onboarding.tips.debug.path": "C:/Users/subha/IdeaProjects/QA_Engineer_SubhadipSinha/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.qa.pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\subha\IdeaProjects\QA_Engineer_SubhadipSinha\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PlayableAdTestCases">
+    <configuration name="PlayableAdTestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Engineer_SubhadipSinha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.PlayableAdTestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayableAdTestCases.testStartCollectGoldButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Engineer_SubhadipSinha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.PlayableAdTestCases" />
+      <option name="METHOD_NAME" value="testStartCollectGoldButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayableAdTestCases.testUserRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Engineer_SubhadipSinha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.PlayableAdTestCases" />
+      <option name="METHOD_NAME" value="testUserRegistration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayableAdTestCases.testUserShouldAbleToClickAnyLanguage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Engineer_SubhadipSinha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.PlayableAdTestCases" />
+      <option name="METHOD_NAME" value="testUserShouldAbleToClickAnyLanguage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayableAdTestCases.verifyLoginAndLogoutFlowWithExistingUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Engineer_SubhadipSinha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.PlayableAdTestCases" />
+      <option name="METHOD_NAME" value="verifyLoginAndLogoutFlowWithExistingUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PlayableAdTestCases" />
+        <item itemvalue="TestNG.PlayableAdTestCases.testUserRegistration" />
+        <item itemvalue="TestNG.PlayableAdTestCases.testUserShouldAbleToClickAnyLanguage" />
+        <item itemvalue="TestNG.PlayableAdTestCases.verifyLoginAndLogoutFlowWithExistingUser" />
+        <item itemvalue="TestNG.PlayableAdTestCases.testStartCollectGoldButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76b45221-a43b-4d88-ae92-53246adf04d3" name="Changes" comment="" />
+      <created>1733672184100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733672184100</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AllTests]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="TestCases(failed)" verbose="0">
+    <classes>
+      <class name="com.qa.testcases.PlayableAdTestCases">
+        <methods>
+          <include name="setUpBase"/>
+          <include name="testUserRegistration"/>
+          <include name="verifyLoginAndLogoutFlowWithExistingUser"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.qa.testcases.PlayableAdTestCases -->
+    </classes>
+  </test> <!-- TestCases(failed) -->
+</suite> <!-- Failed suite [AllTests] -->
